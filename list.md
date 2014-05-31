@@ -1,6 +1,12 @@
-- asdfasdf:
-  - [ ] sdkofj
-  - [ ] lkjdsfg
+- GENES:
+  - [ ] Check on status of 3D grid
+- EMBLA:
+  - [ ] Email about bulge targets 
+- SkyMapper Halo EMPs:
+  - [ ] Send keck spectra to Anna
+  - [ ] Check variance in WiFeS spectra
+  - [ ] Analyse all WiFES spectra and compare to Bessell
+  - [ ] Hook in Ba measurement with one spectrum -- can it be done?
 - [X] waiting for 6pm
 - sick:
   - [ ] tasdfas
@@ -13,9 +19,10 @@
   - [ ] Find GIRAFFE spectra for Benchmarks
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Download a SEGUE spectrum and test it
-  - [ ] Write conclusion section
   - [ ] Implement default prior dictionary for ln_prior
   - [ ] Write ability to interpret prior distributions specified in the model
+  - [ ] Write conclusion section
   - [X] New To Do
   - [X] Test
 - [X] break
+- [ ] GES/CoRoT
