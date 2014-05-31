@@ -4,6 +4,18 @@
 - [X] waiting for 6pm
 - sick:
   - [ ] tasdfas
-  - [ ] New To Do
-  - [ ] Test
+  - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
+  - [ ] Include `solar.yaml` model filename in as figure in the paper
+  - [ ] Discuss width of initial point for MCMC after optimisation
+  - [ ] Finish Solar analysis section in paper
+  - [ ] Make new plots with updated GC analysis
+  - [ ] Finish text for GC/OC analysis
+  - [ ] Find GIRAFFE spectra for Benchmarks
+  - [ ] Analyse GIRAFFE benchmark spectra
+  - [ ] Download a SEGUE spectrum and test it
+  - [ ] Write conclusion section
+  - [ ] Implement default prior dictionary for ln_prior
+  - [ ] Write ability to interpret prior distributions specified in the model
+  - [X] New To Do
+  - [X] Test
 - [X] break
