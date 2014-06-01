@@ -12,9 +12,9 @@
   - [ ] New To Do
   - [ ] Check on status of 3D grid
 - EMBLA:
-  - [X] Email about bulge targets 
   - [ ] Download rest of completed bulge targets
   - [ ] Examine remaining bulge targets -- identify those that need re-doing
+  - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
   - [ ] Send keck spectra to Anna
   - [ ] Check variance in WiFeS spectra
@@ -32,16 +32,16 @@
   - [ ] Add in references
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
-  - [X] Find GIRAFFE spectra for Benchmarks
   - [ ] Analyse GIRAFFE benchmark spectra
-  - [X] Download SEGUE HET sample
-  - [X] Implement default prior dictionary for ln_prior
-  - [X] Write ability to interpret prior distributions specified in the model
-  - [X] Write conclusion section
-  - [X] Estimate smoothing kernel from spectral resolution
-  - [X] Draft a basic MH/MCMC section
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [ ] Check globular cluster results
+  - [X] Write conclusion section
+  - [X] Download SEGUE HET sample
+  - [X] Estimate smoothing kernel from spectral resolution
+  - [X] Write ability to interpret prior distributions specified in the model
+  - [X] Implement default prior dictionary for ln_prior
+  - [X] Find GIRAFFE spectra for Benchmarks
+  - [X] Draft a basic MH/MCMC section
   - [X] New To Do
   - [X] Test
 - [X] break
