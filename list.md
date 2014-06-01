@@ -1,3 +1,11 @@
+- GES Homogenization:
+  - [ ] Get back up to speed 
+  - [ ] Try without cool and EMP stars
+- Best & Brightest EMP Stars:
+  - [ ] Verify there are no more Gemini data
+  - [ ] Draft three emails to Kevin
+- GES/CoRoT:
+  - [X] Email Marcia to ask how she went
 - GENES:
   - [ ] Check on status of 3D grid
 - EMBLA:
@@ -7,6 +15,8 @@
   - [ ] Check variance in WiFeS spectra
   - [ ] Analyse all WiFES spectra and compare to Bessell
   - [ ] Hook in Ba measurement with one spectrum -- can it be done?
+  - [ ] Send paper comments to Heather
+  - [ ] Send MCMC paper writing to Anna 
 - [X] waiting for 6pm
 - sick:
   - [ ] tasdfas
@@ -22,7 +32,10 @@
   - [ ] Implement default prior dictionary for ln_prior
   - [ ] Write ability to interpret prior distributions specified in the model
   - [ ] Write conclusion section
+  - [ ] Estimate smoothing kernel from spectral resolution
+  - [X] Draft a basic MH/MCMC section
+  - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
+  - [ ] Check globular cluster results
   - [X] New To Do
   - [X] Test
 - [X] break
-- [ ] GES/CoRoT
