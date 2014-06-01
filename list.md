@@ -1,3 +1,5 @@
+- GALAH:
+  - [X] Check on status of reduced, unnormalised, no-RV spectra
 - GES Homogenization:
   - [ ] Get back up to speed 
   - [ ] Try without cool and EMP stars
@@ -7,9 +9,12 @@
 - GES/CoRoT:
   - [X] Email Marcia to ask how she went
 - GENES:
+  - [ ] New To Do
   - [ ] Check on status of 3D grid
 - EMBLA:
-  - [ ] Email about bulge targets 
+  - [X] Email about bulge targets 
+  - [ ] Download rest of completed bulge targets
+  - [ ] Examine remaining bulge targets -- identify those that need re-doing
 - SkyMapper Halo EMPs:
   - [ ] Send keck spectra to Anna
   - [ ] Check variance in WiFeS spectra
@@ -24,15 +29,16 @@
   - [ ] Include `solar.yaml` model filename in as figure in the paper
   - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Finish Solar analysis section in paper
+  - [ ] Add in references
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
-  - [ ] Find GIRAFFE spectra for Benchmarks
+  - [X] Find GIRAFFE spectra for Benchmarks
   - [ ] Analyse GIRAFFE benchmark spectra
-  - [ ] Download a SEGUE spectrum and test it
-  - [ ] Implement default prior dictionary for ln_prior
-  - [ ] Write ability to interpret prior distributions specified in the model
-  - [ ] Write conclusion section
-  - [ ] Estimate smoothing kernel from spectral resolution
+  - [X] Download SEGUE HET sample
+  - [X] Implement default prior dictionary for ln_prior
+  - [X] Write ability to interpret prior distributions specified in the model
+  - [X] Write conclusion section
+  - [X] Estimate smoothing kernel from spectral resolution
   - [X] Draft a basic MH/MCMC section
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [ ] Check globular cluster results
