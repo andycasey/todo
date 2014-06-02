@@ -35,6 +35,7 @@
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [ ] Check globular cluster results
+  - [ ] Allow for different permutations of channels/observations, etc
   - [X] Write conclusion section
   - [X] Download SEGUE HET sample
   - [X] Estimate smoothing kernel from spectral resolution
