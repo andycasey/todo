@@ -34,7 +34,7 @@
   - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
-  - [ ] Rewrite priors.py as "initial point"
+  - [X] Rewrite priors.py as "initial point"
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [X] Check globular cluster results
