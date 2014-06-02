@@ -27,7 +27,7 @@
 - sick:
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
-  - [ ] Include `solar.yaml` model filename in as figure in the paper
+  - [X] Include `solar.yaml` model filename in as figure in the paper
   - [ ] Finish Solar analysis section in paper
   - [ ] Add in references
   - [X] Think about best way to do documentation
