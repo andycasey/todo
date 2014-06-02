@@ -27,16 +27,22 @@
 - sick:
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
+  - [X] Think about best way to do documentation
   - [ ] Include `solar.yaml` model filename in as figure in the paper
   - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Finish Solar analysis section in paper
   - [ ] Add in references
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
+  - [ ] Rewrite priors.py as "initial point"
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [X] Check globular cluster results
   - [ ] Allow for different permutations of channels/observations, etc
+  - [ ] Documentation for: Installation
+  - [ ] Documentation for: Contributing
+  - [ ] Documentation for: API Utilities
+  - [ ] Documentation for: Models API 
   - [X] Write conclusion section
   - [X] Download SEGUE HET sample
   - [X] Estimate smoothing kernel from spectral resolution
