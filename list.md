@@ -11,6 +11,7 @@
 - GENES:
   - [ ] New To Do
   - [ ] Check on status of 3D grid
+  - [ ] Outline plan with Martin or David -- get feedback
 - EMBLA:
   - [ ] Download rest of completed bulge targets
   - [ ] Examine remaining bulge targets -- identify those that need re-doing
@@ -34,7 +35,7 @@
   - [ ] Finish text for GC/OC analysis
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
-  - [ ] Check globular cluster results
+  - [X] Check globular cluster results
   - [ ] Allow for different permutations of channels/observations, etc
   - [X] Write conclusion section
   - [X] Download SEGUE HET sample
