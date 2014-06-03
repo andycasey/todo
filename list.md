@@ -44,6 +44,7 @@
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
   - [ ] Better treatment of NaNs in FFT
+  - [ ] Does FFT filter work?
   - [X] Rewrite priors.py as "initial point"
   - [X] Include `solar.yaml` model filename in as figure in the paper
   - [X] Documentation for: Contributing
