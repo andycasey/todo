@@ -1,3 +1,7 @@
+- SMH:
+  - [ ] Fix uncertainty bug in stellar parameters 
+  - [ ] Fix bug reported by JD
+  - [ ] Address concerns raised by heather 
 - GALAH:
   - [ ] Generative model -- why
   - [X] Check on status of reduced, unnormalised, no-RV spectra
