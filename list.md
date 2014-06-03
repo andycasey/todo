@@ -5,7 +5,7 @@
   - [ ] Try without cool and EMP stars
 - Best & Brightest EMP Stars:
   - [ ] Verify there are no more Gemini data
-  - [ ] Draft three emails to Kevin
+  - [X] Draft three emails to Kevin
 - GES/CoRoT:
   - [X] Email Marcia to ask how she went
 - GENES:
@@ -27,23 +27,23 @@
 - sick:
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
-  - [X] Include `solar.yaml` model filename in as figure in the paper
   - [ ] Finish Solar analysis section in paper
   - [ ] Add in references
-  - [X] Think about best way to do documentation
   - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
-  - [X] Rewrite priors.py as "initial point"
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
-  - [X] Check globular cluster results
   - [ ] Allow for different permutations of channels/observations, etc
-  - [X] Documentation for: Installation
-  - [X] Documentation for: Contributing
   - [ ] Documentation for: API Utilities
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
+  - [X] Rewrite priors.py as "initial point"
+  - [X] Include `solar.yaml` model filename in as figure in the paper
+  - [X] Documentation for: Contributing
+  - [X] Documentation for: Installation
+  - [X] Think about best way to do documentation
+  - [X] Check globular cluster results
   - [X] Write conclusion section
   - [X] Download SEGUE HET sample
   - [X] Estimate smoothing kernel from spectral resolution
