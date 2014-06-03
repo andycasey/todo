@@ -26,25 +26,29 @@
   - [ ] Check variance in WiFeS spectra
   - [ ] Analyse all WiFES spectra and compare to Bessell
   - [ ] Hook in Ba measurement with one spectrum -- can it be done?
-  - [ ] Send paper comments to Heather
   - [ ] Send MCMC paper writing to Anna 
+  - [ ] Send paper comments to Heather
 - [X] waiting for 6pm
 - sick:
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
   - [ ] Finish Solar analysis section in paper
-  - [ ] Add in references
+  - [X] Add in references
   - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [ ] Allow for different permutations of channels/observations, etc
-  - [ ] Documentation for: API Utilities
+  - [X] Documentation for: API Utilities
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
-  - [ ] Better treatment of NaNs in FFT
-  - [ ] Does FFT filter work?
+  - [X] Better treatment of NaNs in FFT
+  - [X] Update inference.py to download and clean up after itself
+  - [X] Does FFT filter work?
+  - [ ] Benchmarks with complex ahaped spectra 
+  - [ ] Check on GC results - script to quick print results?
+  - [ ] Cache small range of models for test suite and upload 
   - [X] Rewrite priors.py as "initial point"
   - [X] Include `solar.yaml` model filename in as figure in the paper
   - [X] Documentation for: Contributing
