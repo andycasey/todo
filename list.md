@@ -1,4 +1,5 @@
 - GALAH:
+  - [ ] Generative model -- why
   - [X] Check on status of reduced, unnormalised, no-RV spectra
 - GES Homogenization:
   - [ ] Get back up to speed 
@@ -11,7 +12,7 @@
 - GENES:
   - [ ] New To Do
   - [ ] Check on status of 3D grid
-  - [ ] Outline plan with Martin or David -- get feedback
+  - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
   - [ ] Download rest of completed bulge targets
   - [ ] Examine remaining bulge targets -- identify those that need re-doing
@@ -38,6 +39,7 @@
   - [ ] Documentation for: API Utilities
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
+  - [ ] Better treatment of NaNs in FFT
   - [X] Rewrite priors.py as "initial point"
   - [X] Include `solar.yaml` model filename in as figure in the paper
   - [X] Documentation for: Contributing
