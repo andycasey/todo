@@ -22,7 +22,7 @@
   - [ ] Examine remaining bulge targets -- identify those that need re-doing
   - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
-  - [ ] Send keck spectra to Anna
+  - [X] Send keck spectra to Anna
   - [ ] Check variance in WiFeS spectra
   - [ ] Analyse all WiFES spectra and compare to Bessell
   - [ ] Hook in Ba measurement with one spectrum -- can it be done?
@@ -33,22 +33,22 @@
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
   - [ ] Finish Solar analysis section in paper
-  - [X] Add in references
-  - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
   - [ ] Analyse GIRAFFE benchmark spectra
   - [ ] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [ ] Allow for different permutations of channels/observations, etc
-  - [X] Documentation for: API Utilities
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
-  - [X] Better treatment of NaNs in FFT
+  - [ ] Benchmarks with complex ahaped spectra 
+  - [ ] Discuss width of initial point for MCMC after optimisation
+  - [ ] Cache small range of models for test suite and upload 
+  - [ ] Check on GC results - script to quick print results?
   - [X] Update inference.py to download and clean up after itself
   - [X] Does FFT filter work?
-  - [ ] Benchmarks with complex ahaped spectra 
-  - [ ] Check on GC results - script to quick print results?
-  - [ ] Cache small range of models for test suite and upload 
+  - [X] Add in references
+  - [X] Documentation for: API Utilities
+  - [X] Better treatment of NaNs in FFT
   - [X] Rewrite priors.py as "initial point"
   - [X] Include `solar.yaml` model filename in as figure in the paper
   - [X] Documentation for: Contributing
