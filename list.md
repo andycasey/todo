@@ -40,9 +40,9 @@
   - [ ] Allow for different permutations of channels/observations, etc
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
+  - [ ] Cache small range of models for test suite and upload 
   - [ ] Benchmarks with complex ahaped spectra 
   - [ ] Discuss width of initial point for MCMC after optimisation
-  - [ ] Cache small range of models for test suite and upload 
   - [ ] Check on GC results - script to quick print results?
   - [X] Update inference.py to download and clean up after itself
   - [X] Does FFT filter work?
