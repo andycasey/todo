@@ -15,7 +15,7 @@
   - [X] Email Marcia to ask how she went
 - GENES:
   - [ ] New To Do
-  - [ ] Check on status of 3D grid
+  - [X] Check on status of 3D grid
   - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
   - [ ] Download rest of completed bulge targets
