@@ -3,7 +3,7 @@
   - [ ] Fix bug reported by JD
   - [ ] Address concerns raised by heather 
 - GALAH:
-  - [ ] Generative model -- why
+  - [X] Generative model -- why
   - [X] Check on status of reduced, unnormalised, no-RV spectra
 - GES Homogenization:
   - [ ] Get back up to speed 
