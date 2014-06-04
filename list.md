@@ -33,6 +33,7 @@
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
   - [ ] Finish Solar analysis section in paper
+  - [X] Discuss width of initial point for MCMC after optimisation
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
   - [ ] Analyse GIRAFFE benchmark spectra
@@ -40,9 +41,8 @@
   - [ ] Allow for different permutations of channels/observations, etc
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
-  - [ ] Cache small range of models for test suite and upload 
+  - [X] Cache small range of models for test suite and upload 
   - [ ] Benchmarks with complex ahaped spectra 
-  - [ ] Discuss width of initial point for MCMC after optimisation
   - [ ] Check on GC results - script to quick print results?
   - [X] Update inference.py to download and clean up after itself
   - [X] Does FFT filter work?
