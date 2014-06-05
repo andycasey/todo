@@ -22,18 +22,17 @@
   - [ ] Examine remaining bulge targets -- identify those that need re-doing
   - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
-  - [X] Send keck spectra to Anna
   - [ ] Check variance in WiFeS spectra
   - [ ] Analyse all WiFES spectra and compare to Bessell
   - [ ] Hook in Ba measurement with one spectrum -- can it be done?
   - [ ] Send MCMC paper writing to Anna 
   - [ ] Send paper comments to Heather
+  - [X] Send keck spectra to Anna
 - [X] waiting for 6pm
 - sick:
   - [ ] tasdfas
   - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
   - [ ] Finish Solar analysis section in paper
-  - [X] Discuss width of initial point for MCMC after optimisation
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
   - [ ] Analyse GIRAFFE benchmark spectra
@@ -41,9 +40,10 @@
   - [ ] Allow for different permutations of channels/observations, etc
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
-  - [X] Cache small range of models for test suite and upload 
   - [ ] Benchmarks with complex ahaped spectra 
   - [ ] Check on GC results - script to quick print results?
+  - [X] Discuss width of initial point for MCMC after optimisation
+  - [X] Cache small range of models for test suite and upload 
   - [X] Update inference.py to download and clean up after itself
   - [X] Does FFT filter work?
   - [X] Add in references
