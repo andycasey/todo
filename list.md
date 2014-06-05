@@ -18,8 +18,8 @@
   - [X] Check on status of 3D grid
   - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
-  - [ ] Download rest of completed bulge targets
-  - [ ] Examine remaining bulge targets -- identify those that need re-doing
+  - [X] Download rest of completed bulge targets
+  - [X] Examine remaining bulge targets -- identify those that need re-doing
   - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
   - [ ] Check variance in WiFeS spectra
@@ -41,7 +41,7 @@
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
   - [ ] Benchmarks with complex ahaped spectra 
-  - [ ] Check on GC results - script to quick print results?
+  - [X] Check on GC results - script to quick print results?
   - [X] Discuss width of initial point for MCMC after optimisation
   - [X] Cache small range of models for test suite and upload 
   - [X] Update inference.py to download and clean up after itself
