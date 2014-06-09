@@ -10,6 +10,7 @@
   - [ ] Try without cool and EMP stars
 - Best & Brightest EMP Stars:
   - [ ] Verify there are no more Gemini data
+  - [ ] Fill in travel form
   - [X] Draft three emails to Kevin
 - GES/CoRoT:
   - [X] Email Marcia to ask how she went
@@ -26,6 +27,8 @@
   - [ ] Analyse all WiFES spectra and compare to Bessell
   - [ ] Hook in Ba measurement with one spectrum -- can it be done?
   - [ ] Send MCMC paper writing to Anna 
+  - [ ] Find reduced data on old laptop
+  - [ ] Send reduced data to Anna
   - [ ] Send paper comments to Heather
   - [X] Send keck spectra to Anna
 - [X] waiting for 6pm
