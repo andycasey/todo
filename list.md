@@ -44,7 +44,7 @@
   - [ ] Allow for different permutations of channels/observations, etc
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
-  - [ ] Benchmarks with complex ahaped spectra 
+  - [X] Benchmarks with complex ahaped spectra 
   - [X] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [X] Check on GC results - script to quick print results?
   - [X] Discuss width of initial point for MCMC after optimisation
