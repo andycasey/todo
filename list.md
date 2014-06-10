@@ -19,8 +19,8 @@
   - [X] Check on status of 3D grid
   - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
-  - [X] Test sick on miner
   - [X] Check new results for any that need re-running
+  - [X] Test sick on miner
   - [X] Download rest of completed bulge targets
   - [X] Examine remaining bulge targets -- identify those that need re-doing
   - [X] Email about bulge targets 
@@ -41,11 +41,11 @@
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
   - [ ] Analyse GIRAFFE benchmark spectra
-  - [X] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [ ] Allow for different permutations of channels/observations, etc
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
   - [ ] Benchmarks with complex ahaped spectra 
+  - [X] Write a script to separate GC candidates/members so that the example is fully reproducible
   - [X] Check on GC results - script to quick print results?
   - [X] Discuss width of initial point for MCMC after optimisation
   - [X] Cache small range of models for test suite and upload 
