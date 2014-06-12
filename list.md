@@ -36,7 +36,7 @@
 - [X] waiting for 6pm
 - sick:
   - [ ] tasdfas
-  - [ ] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
+  - [X] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
   - [ ] Finish Solar analysis section in paper
   - [ ] Make new plots with updated GC analysis
   - [ ] Finish text for GC/OC analysis
