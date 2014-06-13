@@ -13,6 +13,7 @@
   - [ ] Fill in travel form
   - [X] Draft three emails to Kevin
 - GES/CoRoT:
+  - [ ] Check on Bologna data
   - [X] Email Marcia to ask how she went
 - GENES:
   - [ ] New To Do
