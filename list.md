@@ -13,7 +13,7 @@
   - [ ] Fill in travel form
   - [X] Draft three emails to Kevin
 - GES/CoRoT:
-  - [ ] Check on Bologna data
+  - [X] Check on Bologna data
   - [X] Email Marcia to ask how she went
 - GENES:
   - [ ] New To Do
@@ -26,8 +26,8 @@
   - [X] Examine remaining bulge targets -- identify those that need re-doing
   - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
-  - [ ] Check variance in WiFeS spectra
   - [ ] Analyse all WiFES spectra and compare to Bessell
+  - [X] Check variance in WiFeS spectra
   - [ ] Send MCMC paper writing to Anna 
   - [ ] Find reduced data on old laptop
   - [ ] Send reduced data to Anna
