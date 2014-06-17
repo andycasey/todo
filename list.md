@@ -27,11 +27,11 @@
   - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
   - [ ] Analyse all WiFES spectra and compare to Bessell
-  - [X] Check variance in WiFeS spectra
   - [ ] Send MCMC paper writing to Anna 
   - [ ] Find reduced data on old laptop
   - [ ] Send reduced data to Anna
   - [ ] Send paper comments to Heather
+  - [X] Check variance in WiFeS spectra
   - [X] Hook in Ba measurement with one spectrum -- can it be done?
   - [X] Send keck spectra to Anna
 - [X] waiting for 6pm
