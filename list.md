@@ -9,8 +9,8 @@
   - [ ] Get back up to speed 
   - [ ] Try without cool and EMP stars
 - Best & Brightest EMP Stars:
-  - [ ] Verify there are no more Gemini data
-  - [ ] Fill in travel form
+  - [X] Verify there are no more Gemini data
+  - [X] Fill in travel form
   - [X] Draft three emails to Kevin
 - GES/CoRoT:
   - [X] Check on Bologna data
