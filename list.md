@@ -1,3 +1,29 @@
+- LMC/SMC:
+  - [ ] Set analysis going through condor
+- Honest Spectroscopy:
+  - [ ] 
+  - [ ] Get HERMES line lists into a proper format w/ *line of interest*
+  - [ ] Format and cull line lists to just show a portion around line of interest
+  - [ ] Make SP optimisation robust against initial input value
+  - [ ] Force SP optimisation converge when required precision is obtained
+  - [ ] Run SP optimisation with measured EWs in the solar spectrum. 
+  - [ ] Get EW working with global continuum determination
+  - [X] Run SP optimisation with Yong EWs and outliers enabled/disabled -- difference??
+  - [X] Format input data for lines we actually care about
+  - [X] Find out if  Vconv is required by MOOG
+  - [X] Optimisation of SP w/ opt abundances
+  - [X] Approx Jacobean back in
+  - [X] Test synth of channel with added lines
+  - [X] Fit 10 regions with a HERMES spectrum
+  - [X] Line-fitting with outlier modelling
+  - [X] Smoothing/vsini -- y u no work
+  - [X] Do fitting with single line line-lists
+  - [X] Fit one synth to Sun
+  - [X] Write code to fit synth, given parameters
+  - [X] Set up data directories (use HERMES stuff)
+  - [X] Get preferred test data/line lists/etc from Martin
+  - [X] Get a synthesis back from MOOG
+  - [X] Test MARCS model atmospheres
 - SMH:
   - [ ] Fix uncertainty bug in stellar parameters 
   - [ ] Address concerns raised by heather 
@@ -8,12 +34,13 @@
 - GES Homogenization:
   - [ ] Get back up to speed 
   - [ ] Try without cool and EMP stars
+  - [ ] Get iDR3 data from.... who!?
 - Best & Brightest EMP Stars:
   - [ ] Download, reduce and analyse fina
   - [ ] Check for VVV and GLIMPSE data in WDB
   - [ ] Cross-match all_sky.csv with APASS and send to kevin
-  - [ ] Run analysis of remaining 33 stars with proper GES model
   - [ ] Send remaining 33 stellar parameters to kevin
+  - [ ] Run analysis of remaining 33 stars with proper GES model
   - [X] Cross-check targets with SIMBAD
   - [X] Verify there are no more Gemini data
   - [X] Fill in travel form
@@ -32,6 +59,7 @@
   - [X] Email Marcia to ask how she went
 - GENES:
   - [ ] New To Do
+  - [ ] Write AWS application
   - [ ] <3D> metallicity distribution function of the halo
   - [ ] Precise differential analysis of "homogenous" open clusters -- inter-gas variations
   - [ ] Precise differential analysis of "homogenous" globular clusters -- evolutionary variations
@@ -39,8 +67,9 @@
   - [X] Check on status of 3D grid
   - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
-  - [ ] Check final ~150 field2149 results and send them
-  - [ ] Send email about rest of results
+  - [ ] Collate results from remaining 9 fields.
+  - [X] Send email about rest of results
+  - [X] Check final ~150 field2149 results and send them
   - [X] Send 1615 results
   - [X] Re-run any dodgy 1615 stars
   - [X] Check 1615 results
@@ -68,6 +97,7 @@
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
   - [ ] Update text to focus on ease-of-use and fast results.
+  - [ ] Show ML value in chains and corner
   - [X] Analyse GIRAFFE benchmark spectra
   - [X] Finish text for GC/OC analysis
   - [X] Make new plots with updated GC analysis
@@ -97,6 +127,6 @@
   - [X] Draft a basic MH/MCMC section
   - [X] New To Do
   - [X] Test
-- [ ] Submit MNRAS proofs.
+- [X] Submit MNRAS proofs.
 - [X] Inbox ZERO!
 - [X] break
