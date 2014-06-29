@@ -1,7 +1,7 @@
 - SMH:
   - [ ] Fix uncertainty bug in stellar parameters 
-  - [ ] Fix bug reported by JD
   - [ ] Address concerns raised by heather 
+  - [X] Fix bug reported by JD
 - GALAH:
   - [X] Generative model -- why
   - [X] Check on status of reduced, unnormalised, no-RV spectra
@@ -9,17 +9,42 @@
   - [ ] Get back up to speed 
   - [ ] Try without cool and EMP stars
 - Best & Brightest EMP Stars:
+  - [ ] Download, reduce and analyse fina
+  - [ ] Check for VVV and GLIMPSE data in WDB
+  - [ ] Cross-match all_sky.csv with APASS and send to kevin
+  - [ ] Run analysis of remaining 33 stars with proper GES model
+  - [ ] Send remaining 33 stellar parameters to kevin
+  - [X] Cross-check targets with SIMBAD
   - [X] Verify there are no more Gemini data
   - [X] Fill in travel form
   - [X] Draft three emails to Kevin
 - GES/CoRoT:
+  - [ ] Do first-pass of homogenisation without any transformation of data
+  - [ ] Check for TECH flags in results -- what do?
+  - [ ] Place restrictions based on node or regime value (e.g. within calibration limits?)
+  - [ ] Draft report on homogenisation: include overview of the data (from who, what, and show plots). Discuss validity limits. Discuss uncertainties provided by nodes
+  - [ ] Check for uncertainties from each node: do they match the input values?!
+  - [X] Set up test without calibration - just correlation
+  - [X] Get Basic STAN code running
+  - [X] Validate photometric data
+  - [X] Validate data from new nodes
   - [X] Check on Bologna data
   - [X] Email Marcia to ask how she went
 - GENES:
   - [ ] New To Do
+  - [ ] <3D> metallicity distribution function of the halo
+  - [ ] Precise differential analysis of "homogenous" open clusters -- inter-gas variations
+  - [ ] Precise differential analysis of "homogenous" globular clusters -- evolutionary variations
+  - [ ] Check on status of <3D> grid
   - [X] Check on status of 3D grid
   - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
+  - [ ] Check final ~150 field2149 results and send them
+  - [ ] Send email about rest of results
+  - [X] Send 1615 results
+  - [X] Re-run any dodgy 1615 stars
+  - [X] Check 1615 results
+  - [X] Set analysis going on additional field
   - [X] Check new results for any that need re-running
   - [X] Test sick on miner
   - [X] Download rest of completed bulge targets
@@ -27,23 +52,25 @@
   - [X] Email about bulge targets 
 - SkyMapper Halo EMPs:
   - [ ] Analyse all WiFES spectra and compare to Bessell
+  - [ ] Send paper comments to Heather
   - [ ] Send MCMC paper writing to Anna 
   - [ ] Find reduced data on old laptop
   - [ ] Send reduced data to Anna
-  - [ ] Send paper comments to Heather
   - [X] Check variance in WiFeS spectra
   - [X] Hook in Ba measurement with one spectrum -- can it be done?
   - [X] Send keck spectra to Anna
 - [X] waiting for 6pm
+- [X] Send HE and Scl data to Anna
 - sick:
   - [ ] tasdfas
-  - [ ] Finish Solar analysis section in paper
-  - [ ] Make new plots with updated GC analysis
-  - [ ] Finish text for GC/OC analysis
-  - [ ] Analyse GIRAFFE benchmark spectra
+  - [ ] Finish (normalised) Solar analysis section in paper
   - [ ] Allow for different permutations of channels/observations, etc
   - [ ] Documentation for: Models API 
   - [ ] Update specutils to be consistent with future astropy.specutils
+  - [ ] Update text to focus on ease-of-use and fast results.
+  - [X] Analyse GIRAFFE benchmark spectra
+  - [X] Finish text for GC/OC analysis
+  - [X] Make new plots with updated GC analysis
   - [X] Put Solar analysis onto Asplund scale, update triangle plot and include in paper
   - [X] Benchmarks with complex ahaped spectra 
   - [X] Write a script to separate GC candidates/members so that the example is fully reproducible
@@ -70,5 +97,6 @@
   - [X] Draft a basic MH/MCMC section
   - [X] New To Do
   - [X] Test
-- [ ] Inbox ZERO!
+- [ ] Submit MNRAS proofs.
+- [X] Inbox ZERO!
 - [X] break
