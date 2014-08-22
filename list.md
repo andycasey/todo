@@ -1,13 +1,19 @@
 - LMC/SMC:
   - [ ] Set analysis going through condor
-- Honest Spectroscopy:
+- SI:
   - [ ] 
-  - [ ] Get HERMES line lists into a proper format w/ *line of interest*
-  - [ ] Format and cull line lists to just show a portion around line of interest
   - [ ] Make SP optimisation robust against initial input value
   - [ ] Force SP optimisation converge when required precision is obtained
-  - [ ] Run SP optimisation with measured EWs in the solar spectrum. 
+  - [ ] Clean up and set clear test cases
   - [ ] Get EW working with global continuum determination
+  - [ ] Voigt profile fitting working
+  - [ ] Stellar parameter classical with optimization 
+  - [ ] Run voigt MCMC with solar atlas spectrum
+  - [ ] Makefile for SI that links everything properly 
+  - [ ] Download atmospheres, etc for SI and put in some folder (within Dropbox maybe?)
+  - [X] Run SP optimisation with measured EWs in the solar spectrum. 
+  - [X] Format and cull line lists to just show a portion around line of interest
+  - [X] Get HERMES line lists into a proper format w/ *line of interest*
   - [X] Run SP optimisation with Yong EWs and outliers enabled/disabled -- difference??
   - [X] Format input data for lines we actually care about
   - [X] Find out if  Vconv is required by MOOG
@@ -32,25 +38,42 @@
   - [X] Generative model -- why
   - [X] Check on status of reduced, unnormalised, no-RV spectra
 - GES Homogenization:
-  - [ ] Get back up to speed 
   - [ ] Try without cool and EMP stars
-  - [ ] Get iDR3 data from.... who!?
+  - [ ] Set up Dropbox folder for homogenization 
+  - [X] Get iDR3 data from.... who!?
+  - [X] Get back up to speed 
 - Best & Brightest EMP Stars:
-  - [ ] Download, reduce and analyse fina
-  - [ ] Check for VVV and GLIMPSE data in WDB
-  - [ ] Cross-match all_sky.csv with APASS and send to kevin
-  - [ ] Send remaining 33 stellar parameters to kevin
   - [ ] Run analysis of remaining 33 stars with proper GES model
+  - [ ] Download, reduce and analyse fina
+  - [X] Get a Plez citation
+  - [X] Fix table and send to Kevin 
+  - [X] Send remaining 33 stellar parameters to kevin
+  - [X] Cross-match all_sky.csv with APASS and send to kevin
+  - [X] Check for VVV and GLIMPSE data in WDB
   - [X] Cross-check targets with SIMBAD
   - [X] Verify there are no more Gemini data
   - [X] Fill in travel form
   - [X] Draft three emails to Kevin
 - GES/CoRoT:
-  - [ ] Do first-pass of homogenisation without any transformation of data
-  - [ ] Check for TECH flags in results -- what do?
-  - [ ] Place restrictions based on node or regime value (e.g. within calibration limits?)
-  - [ ] Draft report on homogenisation: include overview of the data (from who, what, and show plots). Discuss validity limits. Discuss uncertainties provided by nodes
-  - [ ] Check for uncertainties from each node: do they match the input values?!
+  - [X] Draft report on homogenisation: include overview of the data (from who, what, and show plots). Discuss validity limits. Discuss uncertainties provided by nodes
+  - [X] Create plots showing homogenised results with respect to the initial measurements
+  - [X] Check different photometric scale
+  - [X] Plot stars with TECH flags etc as red and produce corner plots
+  - [X] Create a flag for each node's results as to whether the measurement is used or not.
+  - [X] Plot homogenised uncertainties (main sample) vs S/N
+  - [X] Run cross-validation for GIRAFFE data
+  - [X] Apply machinery to GIRAFFE spectra.
+  - [X] Write up notes of UVES homogenisation into a LATEX document with figures & reproducible code, etc.
+  - [X] Do first-pass of homogenisation without any transformation of data
+  - [X] Check all UVES/GIRAFFE setups
+  - [X] Plot truth (x) values vs values for each node (y: difference) with recommended ranges to see whether the ensemble aggregate does better than all the individual nodes
+  - [X] Run cross-validation for UVES with different weighting schemes: how do their uncertainties compare?
+  - [X] Check for uncertainties from each node: do they match the input values?!
+  - [X] Write and run cross-validation script for UVES benchmarks.
+  - [X] Place restrictions based on node or regime value (e.g. within calibration limits?)
+  - [X] Clean up data: place limits on SOUSA (into new file), clean those with TECH flags (new files).
+  - [X] Clean up code, refactor.
+  - [X] Check for TECH flags in results -- what do?
   - [X] Set up test without calibration - just correlation
   - [X] Get Basic STAN code running
   - [X] Validate photometric data
@@ -63,11 +86,13 @@
   - [ ] <3D> metallicity distribution function of the halo
   - [ ] Precise differential analysis of "homogenous" open clusters -- inter-gas variations
   - [ ] Precise differential analysis of "homogenous" globular clusters -- evolutionary variations
-  - [ ] Check on status of <3D> grid
+  - [X] Check on status of <3D> grid
   - [X] Check on status of 3D grid
   - [X] Outline plan with Martin or David -- get feedback
 - EMBLA:
-  - [ ] Collate results from remaining 9 fields.
+  - [ ] Run Bulge/Halo comparison of 100 stars
+  - [ ] Test CD-38 at AAOmega resolution in sick
+  - [X] Collate results from remaining 9 fields.
   - [X] Send email about rest of results
   - [X] Check final ~150 field2149 results and send them
   - [X] Send 1615 results
@@ -92,12 +117,28 @@
 - [X] Send HE and Scl data to Anna
 - sick:
   - [ ] tasdfas
-  - [ ] Finish (normalised) Solar analysis section in paper
   - [ ] Allow for different permutations of channels/observations, etc
-  - [ ] Documentation for: Models API 
-  - [ ] Update specutils to be consistent with future astropy.specutils
-  - [ ] Update text to focus on ease-of-use and fast results.
-  - [ ] Show ML value in chains and corner
+  - [ ] Docs: overview of model caching process 
+  - [ ] Docs: caching a model
+  - [ ] Docs: analyzing the sun
+  - [ ] Download repository for models
+  - [ ] Upload AMBRE GES grid for sick download function 
+  - [ ] Docs: run the analysis of the sun 
+  - [ ] Docs: run an analysis of SEGUE spectra
+  - [ ] Put document in A&A format
+  - [ ] Upload documentation script
+  - [ ] Put google analytics on docs pages 
+  - [ ] Analytics: off/on, announce via logging
+  - [ ] Docs: analytics. When, why and how
+  - [ ] Docs: the command line function
+  - [X] Documentation for: Models API 
+  - [X] Update specutils to be consistent with future astropy.specutils
+  - [X] Refactor to check documentation, consistency of names (e.g. dimensions -> parameters)
+  - [X] Update text to focus on ease-of-use and fast results.
+  - [X] Finish (normalised) Solar analysis section in paper
+  - [X] More human-readable printouts for posteriors
+  - [X] Show ML value in chains and corner
+  - [X] fuck it: export a chi-sq value!
   - [X] Analyse GIRAFFE benchmark spectra
   - [X] Finish text for GC/OC analysis
   - [X] Make new plots with updated GC analysis
